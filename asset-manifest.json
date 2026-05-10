@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/reactsite/static/css/main.8a01a6e5.css",
-    "main.js": "/reactsite/static/js/main.9a73770d.js",
-    "static/media/work-3.png": "/reactsite/static/media/work-3.82c88788cc84e448e5bd.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactsite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/work-4.png": "/reactsite/static/media/work-4.48cdcec56f14d48ad2ae.png",
-    "static/media/work-2.png": "/reactsite/static/media/work-2.c80ac1a8aeaaa1bdd405.png",
-    "static/media/work-5.png": "/reactsite/static/media/work-5.7dc5fbb2c7a9745883d2.png",
-    "static/media/fontawesome-webfont.eot": "/reactsite/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactsite/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/bg1.jpg": "/reactsite/static/media/bg1.80762a9dafaa9bc7c31e.jpg",
-    "static/media/work-1.png": "/reactsite/static/media/work-1.0a48a7d16747e7151e0b.png",
-    "static/media/photo.png": "/reactsite/static/media/photo.653b206e51e49cdb9d67.png",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactsite/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactsite/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/work-6.png": "/reactsite/static/media/work-6.965506816c37595ecb72.png",
-    "static/media/about-me.png": "/reactsite/static/media/about-me.abad4be42e2846e3bff3.png",
-    "static/media/Khurshid-CV_V9.docx": "/reactsite/static/media/Khurshid-CV_V9.93152f9141811b3bcf84.docx",
-    "index.html": "/reactsite/index.html",
-    "main.8a01a6e5.css.map": "/reactsite/static/css/main.8a01a6e5.css.map",
-    "main.9a73770d.js.map": "/reactsite/static/js/main.9a73770d.js.map"
+    "main.css": "/static/css/main.23422948.css",
+    "main.js": "/static/js/main.e94a686f.js",
+    "static/media/work-3.png": "/static/media/work-3.82c88788cc84e448e5bd.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/work-4.png": "/static/media/work-4.48cdcec56f14d48ad2ae.png",
+    "static/media/work-2.png": "/static/media/work-2.c80ac1a8aeaaa1bdd405.png",
+    "static/media/work-5.png": "/static/media/work-5.7dc5fbb2c7a9745883d2.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bg1.jpg": "/static/media/bg1.80762a9dafaa9bc7c31e.jpg",
+    "static/media/work-1.png": "/static/media/work-1.0a48a7d16747e7151e0b.png",
+    "static/media/photo.png": "/static/media/photo.653b206e51e49cdb9d67.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/work-6.png": "/static/media/work-6.965506816c37595ecb72.png",
+    "static/media/about-me.png": "/static/media/about-me.abad4be42e2846e3bff3.png",
+    "static/media/Khurshid-CV_V9.docx": "/static/media/Khurshid-CV_V9.93152f9141811b3bcf84.docx",
+    "index.html": "/index.html",
+    "main.23422948.css.map": "/static/css/main.23422948.css.map",
+    "main.e94a686f.js.map": "/static/js/main.e94a686f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a01a6e5.css",
-    "static/js/main.9a73770d.js"
+    "static/css/main.23422948.css",
+    "static/js/main.e94a686f.js"
   ]
 }
