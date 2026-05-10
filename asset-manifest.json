@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.23422948.css",
-    "main.js": "/static/js/main.e94a686f.js",
+    "main.js": "/static/js/main.12418ffa.js",
     "static/media/work-3.png": "/static/media/work-3.82c88788cc84e448e5bd.png",
+    "static/media/Ezyest-App.png": "/static/media/Ezyest-App.0b2adbdf1951821ebd1a.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/work-4.png": "/static/media/work-4.48cdcec56f14d48ad2ae.png",
     "static/media/work-2.png": "/static/media/work-2.c80ac1a8aeaaa1bdd405.png",
     "static/media/work-5.png": "/static/media/work-5.7dc5fbb2c7a9745883d2.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -16,13 +16,13 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/work-6.png": "/static/media/work-6.965506816c37595ecb72.png",
     "static/media/about-me.png": "/static/media/about-me.abad4be42e2846e3bff3.png",
-    "static/media/Khurshid-CV_V9.docx": "/static/media/Khurshid-CV_V9.93152f9141811b3bcf84.docx",
+    "static/media/Khurshid-CV.docx": "/static/media/Khurshid-CV.16a815e1dd2ab27a2cc1.docx",
     "index.html": "/index.html",
     "main.23422948.css.map": "/static/css/main.23422948.css.map",
-    "main.e94a686f.js.map": "/static/js/main.e94a686f.js.map"
+    "main.12418ffa.js.map": "/static/js/main.12418ffa.js.map"
   },
   "entrypoints": [
     "static/css/main.23422948.css",
-    "static/js/main.e94a686f.js"
+    "static/js/main.12418ffa.js"
   ]
 }
