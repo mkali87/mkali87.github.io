@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import myCV from '../src/Khurshid-CV_V9.docx';
+import myCV from '../src/Khurshid-CV.docx';
 
 const Contact = () =>{
 

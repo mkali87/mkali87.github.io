@@ -49,6 +49,11 @@ const Skills = () =>{
 <div className="container">
   <div className="skills photoshop">80%</div>
 </div> 
+
+<p>Angular</p>
+<div className="container">
+  <div className="skills angular">90%</div>
+</div> 
 </div>
 
 </div>
